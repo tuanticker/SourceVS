@@ -16,7 +16,8 @@ namespace BaiThiC
             InitializeComponent();
         }
 	//form 1 chua menu thuc don
-        private void khachHangToolStripMenuItem_Click(object sender, EventArgs e)
+        //ok
+	private void khachHangToolStripMenuItem_Click(object sender, EventArgs e)
         {
             KhachHang kh = new KhachHang();
             kh.ShowDialog();
