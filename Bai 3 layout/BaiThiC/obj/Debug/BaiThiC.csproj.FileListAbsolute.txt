@@ -1,0 +1,11 @@
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\bin\Debug\BaiThiC.exe
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\bin\Debug\BaiThiC.pdb
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.csprojResolveAssemblyReference.cache
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.Form1.resources
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.Properties.Resources.resources
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.csproj.GenerateResource.Cache
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.exe
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.pdb
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.KhachHang.resources
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.PhieuXuat.resources
+D:\documents\visual studio 2012\Projects\BaiThiC\BaiThiC\obj\Debug\BaiThiC.SanPham.resources
